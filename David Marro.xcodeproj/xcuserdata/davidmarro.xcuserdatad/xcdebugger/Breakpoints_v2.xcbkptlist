@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7555DE6D-EAE3-4694-8F3B-45096A87C580"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "268D5223-DE7F-4068-A076-514F02F40EC2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "David Marro/Models/Evento.swift"
+            timestampString = "583095120.630926"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DA76E63-494C-4E13-B153-9016E52DA28C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "David Marro/View Controllers/UtenteController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38A5B387-01CB-4CFF-A904-D4967C6EF43F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "David Marro/View Controllers/UtenteController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1E7E880-79A7-4925-AAB5-7993369AB4F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "David Marro/View Controllers/Utenteu&#x300;/CreaEventoController4.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "CreaEventoController4"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F1E7E880-79A7-4925-AAB5-7993369AB4F7 - 9249984b3a794db9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "David_Marro.CreaEventoController4.labelCover.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "David Marro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidmarro/Desktop/IEDAPP2020-master/David%20Marro/View%20Controllers/Utenteu%CC%80/CreaEventoController4.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F1E7E880-79A7-4925-AAB5-7993369AB4F7 - 41dfd8ca024731cd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "David_Marro.CreaEventoController4.labelCover.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "David Marro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidmarro/Desktop/IEDAPP2020-master/David%20Marro/View%20Controllers/Utenteu%CC%80/CreaEventoController4.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "F1E7E880-79A7-4925-AAB5-7993369AB4F7 - 55e9ee905212e8be"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "David_Marro.CreaEventoController4.labelCover.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "David Marro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidmarro/Desktop/IEDAPP2020-master/David%20Marro/View%20Controllers/Utenteu%CC%80/CreaEventoController4.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "F1E7E880-79A7-4925-AAB5-7993369AB4F7 - eb057d6250818573"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "David_Marro.CreaEventoController4.labelCover.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "David Marro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidmarro/Desktop/IEDAPP2020-master/David%20Marro/View%20Controllers/Utenteu%CC%80/CreaEventoController4.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "F1E7E880-79A7-4925-AAB5-7993369AB4F7 - f8589f3eadccc2e4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "David_Marro.CreaEventoController4.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; David_Marro.CreaEventoController4"
+                  moduleName = "David Marro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidmarro/Desktop/IEDAPP2020-master/David%20Marro/View%20Controllers/Utenteu%CC%80/CreaEventoController4.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  uuid = "F1E7E880-79A7-4925-AAB5-7993369AB4F7 - 3621eb5517ba19a2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "David_Marro.CreaEventoController4.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;David_Marro.CreaEventoController4&gt;"
+                  moduleName = "David Marro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidmarro/Desktop/IEDAPP2020-master/David%20Marro/View%20Controllers/Utenteu%CC%80/CreaEventoController4.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "616">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
